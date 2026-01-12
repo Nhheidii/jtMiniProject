@@ -1,2 +1,0 @@
-# jtMiniProject
-DB react java 
